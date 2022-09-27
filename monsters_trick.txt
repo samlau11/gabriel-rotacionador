@@ -1,0 +1,1 @@
+https://api.whatsapp.com/send?phone=558494309032&text=Ol%C3%A1,%20quero%20saber%20sobre%20o%20avi%C3%A3ozinho%20(118)
